@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="radioinfo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/radioinfo_jar</output-path>
+    <root id="archive" name="radioinfo.jar">
+      <element id="module-output" name="radioinfo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/formdev/flatlaf/3.1.1/flatlaf-3.1.1.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/images" />
+    </root>
+  </artifact>
+</component>
