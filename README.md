@@ -1,4 +1,5 @@
 # RadioInfo
 
-
-![RadioInfo](photos/RadioInfo.png)
+## Screenshots
+![Channel Menu Screenshot](photos/RadioInfoChannelMenu.png)
+![Program](photos/RadioInfo.png)
